@@ -4,3 +4,4 @@ Text3
 
 Zmiana branch1
 Spaghetti
+Zmiana branch 2
